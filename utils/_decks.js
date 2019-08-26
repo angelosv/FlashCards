@@ -28,6 +28,32 @@ let decks = {
                 answer: 'An string is a sequence of characters'
             }
         ]
+    },
+    Angular: {
+        title: 'Angular',
+        questions: [
+            {
+                question: 'What is an array in C?',
+                answer: 'An array is a sequence of elements of similar datatype'
+            },
+            {
+                question: 'What is a string?',
+                answer: 'An string is a sequence of characters'
+            }
+        ]
+    },
+    HTML: {
+        title: 'HTML',
+        questions: [
+            {
+                question: 'What is an array in C?',
+                answer: 'An array is a sequence of elements of similar datatype'
+            },
+            {
+                question: 'What is a string?',
+                answer: 'An string is a sequence of characters'
+            }
+        ]
     }
 }
 
