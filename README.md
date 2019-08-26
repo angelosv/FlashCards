@@ -9,3 +9,5 @@ This app was built using `create-react-native-app`.
 * start dev server - `yarn start` or `npm start`
 
 ## Platform
+
+thhis has been tested in IOS (iphone X MAX) and Andoid (Samsung galaxy s10)
