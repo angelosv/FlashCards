@@ -10,4 +10,4 @@ This app was built using `create-react-native-app`.
 
 ## Platform
 
-thhis has been tested in IOS (iphone X MAX) and Andoid (Samsung galaxy s10)
+thhis has been tested in IOS (iphone XS MAX) and Andoid (Samsung galaxy s10)
